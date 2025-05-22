@@ -2,9 +2,10 @@
   <table>
     <tr>
       <td align="center" width="45%" valign="top">
-        <img src="https://raw.githubusercontent.com/Victor-Fogarolli/Victor-Fogarolli/main/assets/avatar.png" width="150" style="border-radius: 12px; margin-top: 20px;" /><br><br>
+        <br>
+        <img src="https://cdn.discordapp.com/avatars/449279890156683265/66ebfb152b2d69167003c37fd4fec984.png?size=2048" width="150" style="border-radius: 12px; margin-top: 20px;" /><br>
         <h2>Victor Gabriel Fogarolli</h2>
-        <hr width="60%" />
+        <hr width="70%" />
         <p><strong>🧠 Engenheiro de Software</strong></p>
         <p>💡 Apaixonado por inovação, APIs e sistemas inteligentes.</p>
         <p>🌎 São João da Boa Vista - SP</p>
