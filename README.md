@@ -39,8 +39,7 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Victor-Fogarolli&layout=compact&theme=dracula&hide_border=false&langs_count=5&card_width=450" height="150" />
       </td>
       <div align="center">
-  <img src="https://raw.githubusercontent.com/Victor-Fogarolli/Victor-Fogarolli/output/snake.svg" alt="Snake animation" />
-</div>
+      </div>
     </tr>
   </table>
 </div>
